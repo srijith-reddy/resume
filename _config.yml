@@ -17,11 +17,6 @@ darkmode: false
 # Social links
 github_username: Srijith97
 linkedin_username: saisrijith-reddy-maramreddy-399869166
-twitter_username: ""
-stackoverflow_username: ""
-facebook_username: ""
-instagram_username: ""
-youtube_username: ""
 
 # Additional icon links
 additional_links:
@@ -61,27 +56,30 @@ content:
           - Partnered with IT and Finance to reduce licensing costs by 10%
 
   - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Zicklin School of Business, NY
-        sub_title: MS in Statistics
-        caption: Expected Dec 2025
-        description: |
-          Relevant coursework: Regression Analysis, Time Series, ML, Multivariate Stats
-      - layout: top-right
-        title: Imperial College Business School, London
-        sub_title: MS in Investment & Wealth Management
-        caption: Sept 2021 – Sept 2022
-        description: |
-          Project: Evaluated Microsoft's acquisition of Pinterest using valuation models
-      - layout: top-right
-        title: Pennsylvania State University
-        sub_title: BS in Industrial Engineering
-        caption: Aug 2016 – May 2020
-        description: |
-          GPA: 3.83 | Dean’s List (All Semesters)
+  layout: list
+  content:
+    - layout: right
+      title: Zicklin School of Business, NY
+      sub_title: MS in Statistics
+      caption: Expected Dec 2025
+      description: |
+        Relevant coursework: Regression Analysis, Time Series, ML, Multivariate Stats
 
+    - layout: right
+      title: Imperial College Business School, London
+      sub_title: MS in Investment & Wealth Management
+      caption: Sept 2021 – Sept 2022
+      description: |
+        Project: Evaluated Microsoft’s acquisition of Pinterest using valuation models
+
+    - layout: right
+      title: Pennsylvania State University
+      sub_title: BS in Industrial Engineering
+      caption: Aug 2016 – May 2020
+      description: |
+        GPA: 3.83  
+        Dean’s List (All Semesters)
+        
   - title: Certifications
     layout: list
     content:
