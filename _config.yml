@@ -18,21 +18,15 @@ darkmode: false
 github_username: Srijith97
 linkedin_username: saisrijith-reddy-maramreddy-399869166
 
-# Additional icon links
-additional_links:
-  - title: GitHub
-    icon: fab fa-github
-    url: https://github.com/Srijith97
-
 # About Section
 about_profile_image: images/profile.jpg  # Optional: upload an image to this path
 about_content: |
-  I am a data analyst with experience in predictive analytics, data cleaning, and financial modeling.
-  Currently pursuing a Master's in Statistics at Zicklin School of Business. 
-  Passionate about transforming data into actionable insights using Python, R, SQL, and Excel.
+  I am a data analyst currently pursuing a Master’s in Statistics at Zicklin School of Business, with a strong foundation in machine learning, statistical modeling, and data-driven decision-making.
 
-  My background includes work in smart city analytics, financial analysis, and global SaaS strategy.
-  I'm excited to apply my technical skills and business sense in impactful, real-world environments.
+  My coursework and projects reflect deep experience in regression, multivariate methods, and advanced data mining using Python, R, and SQL. I am actively seeking roles in data science, statistical modeling, and quantitative research.
+
+  My goal is to apply analytical thinking and technical expertise to solve real-world business problems and drive impact in data-intensive environments.
+
 
 # Content Sections
 content:
@@ -64,7 +58,9 @@ content:
         sub_title: MS in Statistics
         caption: Expected Dec 2025
         description: |
-          Relevant coursework: Regression Analysis, Time Series, ML, Multivariate Stats
+          GPA (current): 3.93  
+          Relevant coursework: Regression Analysis, Statistical Inference, Multivariate Methods, Machine Learning, Data Mining, Advanced Data Analysis, Probability
+
 
       - layout: right
         title: Imperial College Business School, London
