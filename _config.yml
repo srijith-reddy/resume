@@ -58,8 +58,8 @@ content:
         sub_title: MS in Statistics
         caption: Expected Dec 2025
         description: |
-          GPA (current): 3.93  
-          Relevant coursework: Regression Analysis, Statistical Inference, Multivariate Methods, Machine Learning, Data Mining, Advanced Data Analysis, Probability
+          -GPA (current): 3.93  
+          -Relevant coursework: Regression Analysis, Statistical Inference, Multivariate Methods, Machine Learning, Data Mining, Advanced Data Analysis, Probability
 
 
       - layout: right
@@ -67,16 +67,16 @@ content:
         sub_title: MS in Investment & Wealth Management
         caption: Sept 2021 – Sept 2022
         description: |
-          Honors: Merit Classification
-          Project: Evaluated Microsoft's acquisition of Pinterest using valuation models
+          -Honors: Merit Classification
+          -Project: Evaluated Microsoft's acquisition of Pinterest using valuation models
 
       - layout: right
         title: Pennsylvania State University
         sub_title: BS in Industrial Engineering
         caption: Aug 2016 – May 2020
         description: |
-          GPA: 3.83  
-          Dean’s List (All Semesters)
+          -GPA: 3.83  
+          -Dean’s List (All Semesters)
 
   - title: Certifications
     layout: list
