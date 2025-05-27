@@ -4,7 +4,7 @@ This repository contains my personal resume website built using the [modern-resu
 
 The site showcases my professional background, education, technical skills, and certifications with a clean and responsive layout.
 
-📍 **Live Site**: [https://srijith97.github.io/resume](https://srijith97.github.io/resume)
+📍 **Live Site**: [https://srijith-reddy.github.io/resume/](https://srijith-reddy.github.io/resume/)
 
 ---
 
