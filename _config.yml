@@ -19,7 +19,7 @@ github_username: Srijith97
 linkedin_username: saisrijith-reddy-maramreddy-399869166
 
 # About Section
-about_profile_image: images/profile.jpg  # Optional: upload an image to this path
+about_profile_image: images/profile.jpg  
 about_content: |
   I am a data analyst currently pursuing a Master’s in Statistics at Zicklin School of Business, with a strong foundation in machine learning, statistical modeling, and data-driven decision-making.
 
