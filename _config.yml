@@ -47,6 +47,7 @@ content:
           - Led data cleansing and predictive modeling for Smart City Solutions
           - Improved billing accuracy by 15% and customer satisfaction by 20%
           - Built dashboards for KPI monitoring using R and Excel
+
       - layout: right
         title: Augment Softsol
         sub_title: Management Trainee
@@ -56,30 +57,30 @@ content:
           - Partnered with IT and Finance to reduce licensing costs by 10%
 
   - title: Education
-  layout: list
-  content:
-    - layout: right
-      title: Zicklin School of Business, NY
-      sub_title: MS in Statistics
-      caption: Expected Dec 2025
-      description: |
-        Relevant coursework: Regression Analysis, Time Series, ML, Multivariate Stats
+    layout: list
+    content:
+      - layout: right
+        title: Zicklin School of Business, NY
+        sub_title: MS in Statistics
+        caption: Expected Dec 2025
+        description: |
+          Relevant coursework: Regression Analysis, Time Series, ML, Multivariate Stats
 
-    - layout: right
-      title: Imperial College Business School, London
-      sub_title: MS in Investment & Wealth Management
-      caption: Sept 2021 – Sept 2022
-      description: |
-        Project: Evaluated Microsoft’s acquisition of Pinterest using valuation models
+      - layout: right
+        title: Imperial College Business School, London
+        sub_title: MS in Investment & Wealth Management
+        caption: Sept 2021 – Sept 2022
+        description: |
+          Project: Evaluated Microsoft's acquisition of Pinterest using valuation models
 
-    - layout: right
-      title: Pennsylvania State University
-      sub_title: BS in Industrial Engineering
-      caption: Aug 2016 – May 2020
-      description: |
-        GPA: 3.83  
-        Dean’s List (All Semesters)
-        
+      - layout: right
+        title: Pennsylvania State University
+        sub_title: BS in Industrial Engineering
+        caption: Aug 2016 – May 2020
+        description: |
+          GPA: 3.83  
+          Dean’s List (All Semesters)
+
   - title: Certifications
     layout: list
     content:
@@ -87,10 +88,12 @@ content:
         title: Python Bootcamp – Udemy
         description: |
           Mastered OOP and timestamp manipulation in Python.
+
       - layout: left
         title: Python for ML & Data Science – Udemy
         description: |
           Built regression, NLP, and clustering models using Pandas, Scikit-learn, and Seaborn.
+
       - layout: left
         title: Finance Data with Python & Pandas – Udemy
         description: |
