@@ -2,29 +2,23 @@
 
 📞 (929) 305-8774  
 📧 shrey.maramreddy@gmail.com  
-🌐 [github.com/Srijith97](https://github.com/Srijith97)  
+🌐 [srijith-reddy.github.io/resume](https://srijith-reddy.github.io/resume)  
 📍 Jersey City, NJ 07306
 
 ---
 
 ## 🧠 Profile Summary
 
-Analytical and detail-oriented Data Analyst with experience in data cleansing, integration, and predictive analytics.  
-Strong background in financial analysis, statistical modeling, and business management.  
-Proficient in Python and SQL with a proven ability to deliver actionable insights through data visualization and analysis.  
-Adept at leveraging advanced analytics to drive business decisions and improve operational efficiency.
+Multidisciplinary data analyst with academic and hands-on experience across statistics, machine learning, and financial modeling. Trained in leveraging data to uncover insights, solve real-world problems, and drive business value. Well-versed in Python, R, SQL, and statistical modeling with strong communication and presentation skills.
 
 ---
 
 ## 🛠️ Skills
 
-- Data Analysis, Predictive Analytics, Statistical Modeling  
-- Python, SQL, R, SAS, Excel  
-- Financial Modeling, Machine Learning  
-- Data Visualization, Bloomberg Terminal, Capital IQ  
-- Microsoft Office Suite  
-- Project Management, Research & Reporting  
-- Conflict Resolution, Flexibility, Team Supervision  
+- **Programming & Analysis**: Python, R, SQL, SAS, Excel  
+- **Modeling & Analytics**: Machine Learning, Predictive Modeling, Statistical Analysis, Financial Modeling  
+- **Visualization & Reporting**: Quarto, Overleaf (LaTeX), Data Visualization  
+- **Tools & Platforms**: Bloomberg Terminal, Capital IQ
 
 ---
 
@@ -34,50 +28,53 @@ Adept at leveraging advanced analytics to drive business decisions and improve o
 **BCITS Pvt Ltd, Bangalore, India**  
 *Sept 2022 – July 2023*
 
-- Led data cleansing and predictive modeling for Smart City Solutions; improved billing accuracy by 15%  
-- Conducted statistical analysis of customer feedback; boosted model accuracy by 30%  
-- Built dashboards for KPI monitoring to support senior management decisions  
-- Collaborated with teams to deliver insights through presentations and reports
+- Led modeling for smart meter billing, improving accuracy by 15% via predictive analytics and data cleaning.
+- Built KPI dashboards and automated reports to aid executive decision-making.
+- Performed statistical analysis of user complaints to inform product improvements.
+- Contributed to cross-functional teams to enhance operational workflows with data-backed decisions.
 
-### **Management Trainee**  
+### **Management Trainee – Business Analyst**  
 **Augment Softsol India Pvt Ltd, Hyderabad, India**  
 *July 2015 – July 2016*
 
-- Managed full-cycle recruitment for technical roles  
-- Analyzed tool usage to prioritize top 5 development tools for productivity  
-- Compared SaaS platforms and advised on licensing to cut costs by 10%  
-- Performed cost-benefit analysis with IT & finance on license strategies
+- Streamlined recruitment processes and helped prioritize key developer tools via usage analytics.
+- Analyzed SaaS licensing strategies; saved 10% in annual IT expenses through cost-benefit recommendations.
+- Created internal reports for IT-finance collaboration on vendor solutions.
 
 ---
 
 ## 🎓 Education
 
-### **MS in Statistics**  
-Zicklin School of Business, New York, NY  
-*Expected: Aug 2024 – Dec 2025*  
-Relevant Courses: Statistical Inference, Regression, Time Series, Multivariate Stats, ML
+### **MS in Statistics (Data Science Track)**  
+Zicklin School of Business, Baruch College – CUNY, New York, NY  
+*Expected Dec 2025*  
+- Projects: Real estate valuation modeling, NBA draft fairness predictor, Ridge bias-variance simulations
 
 ### **MS in Investment & Wealth Management**  
-Imperial College Business School, London  
+Imperial College Business School, London, UK  
 *Sept 2021 – Sept 2022*  
-Honors: Merit  
-Project: Acquisition analysis of Pinterest by Microsoft
+- Honors: Merit  
+- Thesis: Acquisition strategy of Microsoft-Pinterest using financial modeling
 
 ### **BS in Industrial Engineering**  
 Pennsylvania State University, University Park, PA  
 *Aug 2016 – May 2020*  
-GPA: 3.83 | Dean’s List (All Semesters)
+- GPA: 3.83 | Dean’s List (All Semesters)
 
 ---
 
 ## 🏅 Certifications
 
-- **Python Bootcamp** – Udemy  
-  Advanced Python, OOP, timestamp manipulation
-
 - **Python for ML & Data Science Masterclass** – Udemy  
-  Projects in regression, clustering, NLP (Scikit-learn, Pandas, Seaborn)
+  Topics: Regression, clustering, NLP (scikit-learn, pandas, seaborn)
+
+- **Python Bootcamp** – Udemy  
+  Topics: Advanced OOP, timestamp ops, web scraping
 
 - **Finance Data with Python & Pandas** – Udemy  
-  Portfolio optimization, Sharpe Ratio, CAPM, Modern Portfolio Theory
+  Topics: Sharpe Ratio, CAPM, Modern Portfolio Theory, Portfolio Optimization
+
+---
+
+> Resume Link: [https://srijith-reddy.github.io/resume](https://srijith-reddy.github.io/resume)
 
