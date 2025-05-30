@@ -4,17 +4,18 @@
 @import "dark";
 @import "icons";
 
+// Header tweaks
 .header-right p {
   margin-bottom: 3px;
 }
 
-.header-right a{
-  color:inherit;
-  font-weight:500;
+.header-right a {
+  color: inherit;
+  font-weight: 500;
 }
 
 @media screen and (max-width: 767px) {
-  .header-container div{
+  .header-container div {
     text-align: center;
   }
 
@@ -27,11 +28,11 @@
   }
 }
 
+// Profile image adjustments
 .profile-img {
   width: 200px;
   height: 200px;
-  margin: 0 auto;
-  margin-bottom: 20px;
+  margin: 0 auto 20px auto;
   display: block;
   border-radius: 100px;
   background-size: cover;
@@ -42,19 +43,25 @@
   box-shadow: inset 0 0 20px #636161;
 }
 
+// List container spacing
 .list-container {
   h3 {
-    margin-bottom: 0;
+    margin-bottom: 2px; // tighter heading spacing
+  }
+
+  p {
+    margin-bottom: 4px; // tighter paragraph spacing
   }
 }
 
-.border-weak  {
+.border-weak {
   padding-bottom: 8px;
   border-bottom: dashed 1px #CCCCCC;
 }
 
+// Layout tightening
 .layout {
-  margin-top: 3rem;
+  margin-top: 1rem; // was 3rem
   display: flex;
   flex-direction: row;
 
@@ -64,6 +71,7 @@
     text-align: left;
     justify-content: center;
     vertical-align: middle;
+    margin-bottom: 1rem; // was 2rem
 
     p {
       margin-bottom: 3px;
@@ -77,10 +85,10 @@
     }
 
     @media screen and (max-width: 767px) {
-      text-align: center!important;
+      text-align: center !important;
 
       p {
-        text-align: center!important;
+        text-align: center !important;
       }
     }
 
@@ -117,26 +125,27 @@
   flex-direction: row-reverse;
 }
 
-.layout-right, .layout-top-right {
+.layout-right,
+.layout-top-right {
   .details {
     text-align: right;
   }
 }
 
-.layout-left, .layout-right {
+.layout-left,
+.layout-right {
   @media screen and (max-width: 767px) {
     flex-direction: column;
   }
-
-  .details {
-    margin-bottom: 2rem;
-  }
 }
 
-.layout-top-middle, .layout-top, .layout-top-right {
+.layout-top-middle,
+.layout-top,
+.layout-top-right {
   flex-direction: column;
 
-  .details, .content {
+  .details,
+  .content {
     width: 100%;
   }
 }
@@ -147,8 +156,9 @@
   }
 }
 
+// Footer spacing
 .footer-container {
-  margin-top:100px;
+  margin-top: 30px; // was 100px
 }
 
 .footer-container p {
@@ -163,6 +173,7 @@
   font-weight: 300;
 }
 
+// Contact section spacing
 .page-content {
   padding: 0;
 }
@@ -191,4 +202,9 @@ p.quote {
     padding: 0rem 1rem;
     margin-top: 1rem;
   }
+}
+
+// Global font size reduction (optional)
+body {
+  font-size: 14px;
 }
