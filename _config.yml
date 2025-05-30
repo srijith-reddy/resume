@@ -78,7 +78,7 @@ content:
           - GPA: 3.83  
           - Dean’s List (All Semesters)
 
-   - title: Certifications
+  - title: Certifications
     layout: text
     content: |
       - Python Bootcamp – Udemy: Mastered OOP and timestamp manipulation in Python  
