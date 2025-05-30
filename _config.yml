@@ -99,11 +99,10 @@ content:
   - title: Skills
     layout: text
     content: |
-      - Python, R, SQL, SAS, Excel
-      - Machine Learning, Statistical Analysis, Predictive Modeling
-      - Data Visualization, Financial Modeling
-      - Bloomberg Terminal, Capital IQ
-      - Team Leadership, Cross-functional Communication
+      - Programming & Analysis: Python, R, SQL, SAS, Excel  
+      - Modeling & Analytics: Machine Learning, Predictive Modeling, Statistical Analysis, Financial Modeling  
+      - Visualization & Reporting: Quarto, Overleaf (LaTeX), Data Visualization 
+      - Tools & Platforms: Bloomberg Terminal, Capital IQ 
 
 # Footer
 footer_show_references: true
