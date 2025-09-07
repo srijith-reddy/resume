@@ -21,11 +21,8 @@ linkedin_username: saisrijith-reddy-maramreddy-399869166
 # About Section
 about_profile_image: images/profile.jpg  
 about_content: |
-  I am pursuing an M.S. in Statistics & Data Science at Baruch College (Zicklin), building on prior degrees in Industrial Engineering (Penn State) and Investment & Wealth Management (Imperial College London). My academic and project work spans machine learning, regression modeling, multivariate methods, and advanced data mining with Python, R, and SQL.
-
-  Alongside my coursework, I am developing AI agents and GenAI applications, exploring frameworks like LangChain, LangGraph, and agent-orchestration workflows. My projects include building quantitative research pipelines, fairness-aware ensemble models, and ML systems that translate raw data into actionable insights.
-
-  I am seeking opportunities in AI/ML engineering, data science, and quantitative research, where I can combine my technical foundation with my passion for AI agents, generative models, and applied machine learning to solve complex, real-world problems.
+ M.S. in Statistics & Data Science at Baruch College (Zicklin) and prior studies in Industrial Engineering (Penn State) and Investment & Wealth Management (Imperial College London). Experience in transforming messy data into clean, scalable systems — anywhere from multi-leveled quant pipelines for researching equities to AI agents that automate decisioning processes. 
+ Proficient in Python, R, and SQL and exposure to machine learning, multivariate analysis, and fairness-sensitive modeling. I want to work on AI/ML engineering, data science, and applied AI research projects that bring intelligent systems and end-to-end real-world applicability together.
 
 # Content Sections
 content:
@@ -87,10 +84,12 @@ content:
   - title: Skills
     layout: text
     content: |
-      - Programming & Analysis: Python, R, SQL, SAS, Excel  
-      - Modeling & Analytics: Machine Learning, Predictive Modeling, Statistical Analysis, Financial Modeling  
-      - Visualization & Reporting: Quarto, Overleaf (LaTeX), Data Visualization 
-      - Tools & Platforms: Bloomberg Terminal, Capital IQ 
+      - Programming & Analysis: Python, R, SQL, SAS, Excel, pandas, NumPy
+      - Modeling & Optimization:Regression (Ridge, Lasso, Elastic Net), Machine Learning (scikit-learn, SVM, LDA, ensembles, LightGBM, XGBoost), Multivariate Analysis, Optuna, CVXPY
+      - LLMs & AI Agents: LangChain, LangGraph, Hugging Face, OpenAI APIs, FastAPI, Streamlit
+      - Financial & Quant Methods: Statistical & Financial Modeling, Time Series
+      - Visualization & Reporting: Matplotlib, Seaborn, ggplot2, Quarto, LaTeX (Overleaf)
+      - Tools & Platforms: Git/GitHub, Jupyter, Bloomberg Terminal, Capital IQ
 
 # Footer
 footer_show_references: true
