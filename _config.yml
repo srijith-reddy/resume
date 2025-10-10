@@ -89,7 +89,7 @@ content:
       - LLMs & AI Agents: LangChain, LangGraph, Hugging Face, OpenAI APIs, FastAPI, Streamlit
       - Financial & Quant Methods: Statistical & Financial Modeling, Time Series
       - Visualization & Reporting: Matplotlib, Seaborn, ggplot2, Quarto, LaTeX (Overleaf)
-      - Tools & Platforms: Git/GitHub, Jupyter, Bloomberg Terminal, Capital IQ
+      - Tools & Platforms: Git/GitHub, Jupyter, Bloomberg Terminal, Capital IQ, n8n
 
 # Footer
 footer_show_references: true
