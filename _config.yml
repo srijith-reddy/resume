@@ -84,8 +84,9 @@ content:
   - title: Skills
     layout: text
     content: |
-      - Programming & Analysis: Python, R, SQL, SAS, Excel, pandas, NumPy
+      - Programming & Analysis: Python, R, SQL, Swift, SAS, Excel, pandas, NumPy
       - Modeling & Optimization:Regression (Ridge, Lasso, Elastic Net), Machine Learning (scikit-learn, SVM, LDA, ensembles, LightGBM, XGBoost), Multivariate Analysis, Optuna, CVXPY
+      - Deep Learning: PyTorch
       - LLMs & AI Agents: LangChain, LangGraph, Hugging Face, OpenAI APIs, FastAPI, Streamlit
       - Financial & Quant Methods: Statistical & Financial Modeling, Time Series
       - Visualization & Reporting: Matplotlib, Seaborn, ggplot2, Quarto, LaTeX (Overleaf)
