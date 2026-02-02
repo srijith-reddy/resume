@@ -19,24 +19,24 @@ github_username: Srijith-reddy
 linkedin_username: saisrijith-reddy-maramreddy-399869166
 
 # About Section
-about_profile_image: images/profile.jpg  
+about_profile_image: images/profile.jpg
 about_content: |
- M.S. in Statistics & Data Science at Baruch College (Zicklin) and prior studies in Industrial Engineering (Penn State) and Investment & Wealth Management (Imperial College London). Experience in transforming messy data into clean, scalable systems — anywhere from multi-leveled quant pipelines for researching equities to AI agents that automate decisioning processes. 
- Proficient in Python, R, and SQL and exposure to machine learning, multivariate analysis, and fairness-sensitive modeling. I want to work on AI/ML engineering, data science, and applied AI research projects that bring intelligent systems and end-to-end real-world applicability together.
+  M.S. in Statistics & Data Science at Baruch College (Zicklin) and prior studies in Industrial Engineering (Penn State) and Investment & Wealth Management (Imperial College London). Experience in transforming messy data into clean, scalable systems — anywhere from multi-leveled quant pipelines for researching equities to AI agents that automate decisioning processes.
+  Proficient in Python, R, and SQL and exposure to machine learning, multivariate analysis, and fairness-sensitive modeling. I want to work on AI/ML engineering, data science, and applied AI research projects that bring intelligent systems and end-to-end real-world applicability together.
 
 # Content Sections
 content:
   - title: Experience
     layout: list
     content:
-     - layout: right
-       title: Baruch College (CUNY)
-       sub_title: Research Assistant — Prof. Zelda Li
-       caption: Nov 2025 – Present
-       description: |
-         - Conduct literature reviews on covariate-assisted spectral matrix analysis
-         - Assist with simulation studies and statistical modeling of physiological signal data
-         - Perform data analysis and support statistical methodology development
+      - layout: right
+        title: Baruch College (CUNY)
+        sub_title: Research Assistant — Prof. Zelda Li
+        caption: Nov 2025 – Present
+        description: |
+          - Conduct literature reviews on covariate-assisted spectral matrix analysis
+          - Assist with simulation studies and statistical modeling of physiological signal data
+          - Perform data analysis and support statistical methodology development
 
       - layout: right
         title: BCITS Pvt Ltd
@@ -63,9 +63,8 @@ content:
         sub_title: MS in Statistics
         caption: May 2026
         description: |
-          - GPA (current): 3.952  
+          - GPA (current): 3.952
           - Relevant coursework: Regression Analysis, Statistical Inference, Multivariate Methods, Machine Learning, Data Mining, Advanced Data Analysis, Probability
-
 
       - layout: right
         title: Imperial College Business School, London
@@ -80,21 +79,21 @@ content:
         sub_title: BS in Industrial Engineering
         caption: Aug 2016 – May 2020
         description: |
-          - GPA: 3.83  
+          - GPA: 3.83
           - Dean’s List (All Semesters)
 
   - title: Certifications
     layout: text
     content: |
-      - Python Bootcamp – Udemy: Mastered OOP and timestamp manipulation in Python  
-      - Python for ML & Data Science – Udemy: Regression, NLP, and clustering with Pandas, Scikit-learn, and Seaborn  
+      - Python Bootcamp – Udemy: Mastered OOP and timestamp manipulation in Python
+      - Python for ML & Data Science – Udemy: Regression, NLP, and clustering with Pandas, Scikit-learn, and Seaborn
       - Finance Data with Python & Pandas – Udemy: CAPM, Sharpe Ratio, and MPT for portfolio optimization
 
   - title: Skills
     layout: text
     content: |
       - Programming & Analysis: Python, R, SQL, Swift, SAS, Excel, pandas, NumPy
-      - Modeling & Optimization:Regression (Ridge, Lasso, Elastic Net), Machine Learning (scikit-learn, SVM, LDA, ensembles, LightGBM, XGBoost), Multivariate Analysis, Optuna, CVXPY
+      - Modeling & Optimization: Regression (Ridge, Lasso, Elastic Net), Machine Learning (scikit-learn, SVM, LDA, ensembles, LightGBM, XGBoost), Multivariate Analysis, Optuna, CVXPY
       - Deep Learning: PyTorch
       - LLMs & AI Agents: LangChain, LangGraph, Hugging Face, OpenAI APIs, FastAPI, Streamlit
       - Financial & Quant Methods: Statistical & Financial Modeling, Time Series
@@ -107,22 +106,23 @@ references_title: References available on request
 
 # Theme and Build settings
 remote_theme: sproogen/modern-resume-theme
+
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - lib/
+  - scripts/
+  - docker-compose.yml
+
