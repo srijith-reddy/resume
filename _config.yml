@@ -34,26 +34,21 @@ content:
         sub_title: Research Assistant — Prof. Zeda Li
         caption: Nov 2025 – Present
         description: |
-          - Conduct literature reviews on covariate-assisted spectral matrix analysis
-          - Assist with simulation studies and statistical modeling of physiological signal data
-          - Perform data analysis and support statistical methodology development
+          - Design simulation frameworks to study subject-specific brain connectivity networks influenced by demographic and clinical covariates
+          - Implement and benchmark classical and covariate-aware network inference methods (Graphical Lasso, Bayesian graphical models, transfer-learning approaches) within a unified simulation framework
+          - Evaluate model performance using precision–recall, F1 score, and scalability under controlled heterogeneity and noise conditions
+          - Contribute to methodological research in multivariate signal modeling and covariate-assisted spectral analysis
 
       - layout: right
         title: BCITS Pvt Ltd
         sub_title: Data Analyst Intern
         caption: Sept 2022 – July 2023
         description: |
-          - Led data cleansing and predictive modeling for Smart City Solutions
-          - Improved billing accuracy by 15% and customer satisfaction by 20%
-          - Built dashboards for KPI monitoring using R and Excel
-
-      - layout: right
-        title: Augment Softsol
-        sub_title: Management Trainee
-        caption: July 2015 – July 2016
-        description: |
-          - Managed recruitment for technical roles and evaluated SaaS tools
-          - Partnered with IT and Finance to reduce licensing costs by 10%
+          - Performed large-scale data cleansing and preprocessing across billing, IoT, and transaction datasets (50K+ records)
+          - Built predictive models to detect billing anomalies and reduce revenue leakage
+          - Contributed to improving billing accuracy by 15% and customer satisfaction by 20% through data-driven analysis
+          - Developed KPI dashboards using R and Excel for operational monitoring
+          - Collaborated with engineering teams to validate data integrity and improve reporting workflows
 
   - title: Education
     layout: list
